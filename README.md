@@ -10,7 +10,8 @@ This Android application facilitates the calibration of Electric Muscle Stimulat
 ## Wireless Control
 The application communicates with an Arduino microcontroller via Bluetooth. To set up the communication, please ensure to edit the UUID in the code to match your microcontroller's UUID.
 
-If you're using Arduino code provided by the repository owner, you can find it linked [here]([link_to_arduino_code](https://drive.google.com/drive/u/0/home)).
+If you're using Arduino code provided by the repository owner, you can find it linked [Here](https://github.com/archit10101/Arduino_BLE)
+
 
 ## Usage
 To utilize this application, follow these steps:
